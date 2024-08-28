@@ -147,14 +147,6 @@ cd client && flutter run
 - Profile
   - Update Profile ✔
 
-## Anggota Kelompok
-
-1. [Diva Gracia](https://github.com/diva-gsc)
-2. [Galur Arasy L](https://github.com/evanightly)
-3. [M. Ariesta](https://github.com/EvosMan)
-4. [Rama Wijaya](https://github.com/ramawijaya1)
-5. [Selly Amelia](https://github.com/sellyamelia)
-
 ## Pembagian Tugas
 
 - Register + Login + Logout (Selly)
